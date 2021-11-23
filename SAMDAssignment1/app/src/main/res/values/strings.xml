@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SAMD  Assignment 1</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password" />
+    <string name="Email" />
+</resources>
